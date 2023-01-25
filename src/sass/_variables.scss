@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500&display=swap');
+
+$primary-font: 'Noto Sans', sans-serif;
+$primary-fontsize: 25px;
+
+$fontweight-light: 300;
+$fontweight-regular: 400;
+$fontweight-medium: 500;
+
+$transition-opacity: opacity 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+$transition-all: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+$border-radius: 25px;
+
+$transform-arrow: scale(0.9);
