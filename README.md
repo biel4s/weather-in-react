@@ -97,4 +97,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - Hide API using node.js
 - Clear input on submit
-- .
+- Close weather info if users clicks X
