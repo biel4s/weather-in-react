@@ -57,7 +57,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ---
 
-![](https://i.imgur.com/GRRBjkx.gif)
+![](https://i.imgur.com/e7uOqZx.gif)
 
 ![](https://i.imgur.com/OneUtFR.png)
 
