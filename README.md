@@ -98,3 +98,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Hide API using node.js
 - Clear input on submit (fix $city value)
 - Close weather info if user clicks X
+- .
