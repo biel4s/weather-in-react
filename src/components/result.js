@@ -17,8 +17,8 @@ const Result = props => {
         error
     } = props.weather
 
-    let content = null;
-    let unfound = null;
+    let content = null,
+        unfound = null;
 
     const capitalize = str => {
         return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
