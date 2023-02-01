@@ -49,12 +49,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
-### Used API:
+### API:
   [OpenWeatherMap API](https://openweathermap.org)
   
   https://openweathermap.org
   
-### API Info
   URL 
 ```
   https://api.openweathermap.org/data/2.5/weather?q={City_Name}&APPID={API_Key}&units=metric
