@@ -64,8 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Things to do:
 
----
-
 - Hide API using node.js
 - Clear input on submit (fix $city value)
 - Close weather info if user clicks X
