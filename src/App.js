@@ -16,7 +16,7 @@ class App extends Component {
         highTemp: "",
         feels: "",
         humidity: "",
-        error: false,
+        error: false
     }
 
     handleInputChange = e => {
