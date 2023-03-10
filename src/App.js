@@ -3,7 +3,7 @@ import Form from './components/form';
 import Result from './components/result';
 import './sass/App.scss';
 
-class App extends Component {
+export default class App extends Component {
 
     state = {
         value: "",
@@ -80,5 +80,3 @@ class App extends Component {
         );
       }
   }
-
-export default App;
