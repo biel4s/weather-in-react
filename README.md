@@ -33,13 +33,13 @@
 ### Install React Font Awesome
 
 ```bash 
-  npm install --save @fortawesome/react-fontawesome`
+  npm install --save @fortawesome/react-fontawesome
 ```
 
 ### Install React Font Awesome free solid
 
 ```bash 
-  npm install --save @fortawesome/fontawesome-free-solid`
+  npm install --save @fortawesome/fontawesome-free-solid
 ```
 
 ### Run
