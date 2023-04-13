@@ -63,7 +63,7 @@ https://api.openweathermap.org/data/2.5/weather?q={City_Name}&APPID={API_Key}&un
 
 ## Things to do:
 
-- Hide API using node.js
+- Hide API
 - Clear input on submit (fix $city value)
 - Close weather info if user clicks X
 - .
