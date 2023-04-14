@@ -24,28 +24,10 @@ cd weather-in-react
 npm install
 ```
 
-### Install React Bootstrap 
+### Install all needed packages 
   
 ```bash 
-npm install react-bootstrap bootstrap
-```
-
-### Install React Sass Stylesheet
-  
-```bash 
-npm install sass
-```
-
-### Install React Font Awesome
-
-```bash 
-npm install --save @fortawesome/react-fontawesome
-```
-
-### Install React Font Awesome free solid
-
-```bash 
-npm install --save @fortawesome/fontawesome-free-solid
+npm install react-bootstrap bootstrap sass --save @fortawesome/react-fontawesome --save @fortawesome/fontawesome-free-solid
 ```
 
 ### Run
