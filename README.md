@@ -11,6 +11,13 @@
 ```bash 
 git clone https://github.com/biel4s/weather-in-react.git
 ```
+
+### Go to our new folder
+
+```bash 
+cd weather-in-react
+```
+
 ### Install all dependencies. You need [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
 ```bash
