@@ -1,6 +1,8 @@
 # Weather In React
 
-![](https://i.imgur.com/e7uOqZx.gif)
+<p align="center">
+  <img src="https://i.imgur.com/e7uOqZx.gif" alt="gif" />
+</p>
 ![](https://i.imgur.com/OneUtFR.png)
 
 ---
