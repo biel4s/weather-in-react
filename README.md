@@ -43,7 +43,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
   https://openweathermap.org
   
-  [Get your API key](https://home.openweathermap.org/api_keys)
+  [Get your API key here](https://home.openweathermap.org/api_keys)
   
 ### URL 
 ```
