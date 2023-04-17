@@ -35,6 +35,7 @@ npm install react-bootstrap bootstrap sass --save @fortawesome/react-fontawesome
 ### Add your API key to .env file before running locally!
 [Get your API key here](https://home.openweathermap.org/api_keys)
 ### Run
+
 ```bash
 npm start
 ```
