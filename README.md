@@ -43,14 +43,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
   https://openweathermap.org
   
+  [Get your API key](https://home.openweathermap.org/api_keys)
+  
 ### URL 
 ```
 https://api.openweathermap.org/data/2.5/weather?q={City_Name}&APPID={API_Key}&units=metric
-```
-
-### Get your API key
-```
-https://home.openweathermap.org/api_keys
 ```
 
 ---
