@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://i.imgur.com/e7uOqZx.gif" alt="gif" />
+  <img src="https://i.imgur.com/OneUtFR.png" alt="gif" />
 </p>
-![](https://i.imgur.com/OneUtFR.png)
 
 ---
 # Instructions
