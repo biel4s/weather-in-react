@@ -30,7 +30,7 @@ export default class App extends Component {
     }
 
     handleCitySubmit = e => {
-        const APIKey = 'YOUR_API_KEY';
+        const APIKey = process.env.REACT_APP_API_KEY;
         e.preventDefault();
         this.clear();
 
