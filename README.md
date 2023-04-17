@@ -32,6 +32,8 @@ npm install
 npm install react-bootstrap bootstrap sass --save @fortawesome/react-fontawesome --save @fortawesome/fontawesome-free-solid
 ```
 
+### Add your API key to .env file before running locally!
+
 ### Run
 ```bash
 npm start
