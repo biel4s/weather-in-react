@@ -55,7 +55,7 @@ https://api.openweathermap.org/data/2.5/weather?q={City_Name}&APPID={API_Key}&un
 
 ---
 
-## Things to do:
+## TODOs:
 
 - Hide API
 - Clear input on submit (fix $city value)
