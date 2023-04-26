@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Form from './components/form';
 import Result from './components/result';
+import Footer from "./components/footer";
 import './sass/App.scss';
 
 export default class App extends Component {
