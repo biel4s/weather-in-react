@@ -76,6 +76,7 @@ export default class App extends Component {
                   submit={this.handleCitySubmit}
               />
               <Result weather={this.state} />
+              <Footer />
           </div>
         );
       }
