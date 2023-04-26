@@ -1,8 +1,8 @@
 # Weather In React
 
 <p align="center">
-  <img src="https://i.imgur.com/e7uOqZx.gif" alt="gif" />
-  <img src="https://i.imgur.com/OneUtFR.png" alt="gif" />
+  <img src="https://i.imgur.com/UCrtLua.gif" alt="weather-in" />
+  <img src="https://i.imgur.com/GlMLm0S.png" alt="weather-in" />
 </p>
 
 ---
