@@ -14,7 +14,7 @@
 git clone https://github.com/biel4s/weather-in-react.git
 ```
 
-### Go to our new folder
+### Go to new folder
 
 ```bash 
 cd weather-in-react
@@ -24,12 +24,6 @@ cd weather-in-react
 
 ```bash
 npm install
-```
-
-### Install all required packages 
-  
-```bash 
-npm install react-bootstrap bootstrap sass --save @fortawesome/react-fontawesome --save @fortawesome/fontawesome-free-solid
 ```
 
 ### Add your API key to .env file before running locally!

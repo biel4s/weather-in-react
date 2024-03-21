@@ -10,39 +10,45 @@ body {
 .App {
     form {
         font-size: $primary-fontsize;
+
         .display-4 {
             font-weight: $fontweight-medium;
         }
+
         .search {
             display: flex;
             justify-content: center;
             align-items: center;
-            position: relative;
-            width: 100vw;
+
             input {
-                padding: 10px 0px 10px 15px;
+                padding: 10px 0 10px 15px;
                 transition: $transition-all;
-                border-radius: $border-radius 0px 0px $border-radius;
+                border-radius: $border-radius 0 0 $border-radius;
                 opacity: 0;
-                width: 0px;
+                width: 0;
                 font-weight: $fontweight-regular;
+
                 &:focus {
                     outline: none;
                 }
             }
+
             .btn1 {
                 padding: 10px;
                 border-radius: $border-radius;
                 background-color: lightgrey;
                 transition: all 0.5s;
+
                 &:active {
                     background-color: #fff;
                 }
+
                 .fa-search {
                     transition: $transition-opacity;
                     opacity: 1;
                     width: 40px; 
                 }
+
                 .fa-plus {
                     left: 20px;
                     top: 16px;  
@@ -54,23 +60,27 @@ body {
                 }
             }
         }
+
         .search.active {
             .input {
-                width: 300px;
+                width: min(100%, 340px);
                 visibility: visible;
                 opacity: 1;
                 transform: translateX(5px);
                 transition: $transition-all;
             }
+
             .btn1 {
                 border-radius: 0 $border-radius $border-radius 0;
                 transform: translateX(-5px);
                 transition: $transition-all;
+
                 .fa-search {
                     transition: $transition-opacity;
                     opacity: 0;
                     overflow: hidden;
                 }
+
                 .fa-plus {
                     left: 10px;
                     transition: $transition-opacity;
@@ -80,50 +90,66 @@ body {
             }
         }
     }
+
     .result {
     font-size: 1rem;
+    display: flex;
+    justify-content: center;
+
         .unfound {
             font-size: 35px;
             font-weight: $fontweight-medium;
+            max-width: 400px;
         }
+
         .date {
             box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
             border-radius: $border-radius;
             background-color: #282c34;
             width: 400px;
+
             .weather-icon {
                 transform: scale(1.2);
             }
+
             h1 {
                 font-weight: $fontweight-light;
             }
+
             .display-3 {
                 font-weight: $fontweight-medium;
             }
+
             .description {
                 font-size: 30px;
                 font-weight: $fontweight-light;
             }
+
             .highest, .lowest {
                 font-size: $primary-fontsize;
                 font-weight: $fontweight-medium;
+
                 .fa-arrow-up {
                     transform: $transform-arrow;
                 }
+
                 .fa-arrow-down {
                     transform: $transform-arrow;
                 }
-            }  
+            }
+
             .feels, .humidity {
                 font-size: $primary-fontsize;
                 margin-bottom: 0 !important;
             }
+
             .feels-text, .humidity-text{
                 font-weight: $fontweight-light;
             }
         }
     }
+
     footer {
-		top: 800px;
+		margin-top: 100px;
 	}
 }
